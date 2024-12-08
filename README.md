@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajwal Weladi</h1>
-<h3 align="center">A passionate Game Developer & Front-end developer from India</h3>
+<h3 align="center">A passionate Game Developer & an Android App Developer from India</h3>
 
 - 🔭 I’m currently working on **The Rilics of Silvacia - A Game**
 
