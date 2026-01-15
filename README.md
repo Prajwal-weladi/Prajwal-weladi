@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajwal Weladi</h1>
-<h3 align="center">A passionate Game Developer & an Android app developer from India</h3>
-
-- 🔭 I’m currently working on **The Rilics of Silvacia - A Game**
+<h3 align="center">A passionate Full Stack & an AI developer</h3>
 
 - 🌱 I’m currently learning **Unreal Engine, Cloud Computing, Machine Learning, Artificial Intelligence**
 
@@ -11,7 +9,7 @@
 
 - 📫 How to reach me **prajwalweladi173@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iPaMJboU5acFBszv5zf5xClR8o4JARs1/view?usp=sharing](https://drive.google.com/file/d/1iPaMJboU5acFBszv5zf5xClR8o4JARs1/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Bryn028dybsAw6-YE055i-yWleahTa0J/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
